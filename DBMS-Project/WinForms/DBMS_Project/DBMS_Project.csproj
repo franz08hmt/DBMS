@@ -58,6 +58,30 @@
     <Compile Include="frmBT2.Designer.cs">
       <DependentUpon>frmBT2.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmBT3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBT3.Designer.cs">
+      <DependentUpon>frmBT3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBT4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBT4.Designer.cs">
+      <DependentUpon>frmBT4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBT5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBT5.Designer.cs">
+      <DependentUpon>frmBT5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBT6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBT6.Designer.cs">
+      <DependentUpon>frmBT6.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
