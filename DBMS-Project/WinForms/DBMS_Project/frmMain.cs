@@ -31,7 +31,11 @@ namespace DBMS_Project
             }
         }
 
-        private void btnBT1_Click(object sender, EventArgs e) { }
+        private void btnBT1_Click(object sender, EventArgs e)
+        {
+            frmBT1 frm = new frmBT1();
+            frm.ShowDialog();
+        }
         private void btnBT2_Click(object sender, EventArgs e) { }
         private void btnBT3_Click(object sender, EventArgs e) { }
         private void btnBT4_Click(object sender, EventArgs e) { }
