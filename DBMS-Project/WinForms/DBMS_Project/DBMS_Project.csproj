@@ -106,6 +106,9 @@
     <EmbeddedResource Include="frmBT5.resx">
       <DependentUpon>frmBT5.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmBT6.resx">
+      <DependentUpon>frmBT6.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>

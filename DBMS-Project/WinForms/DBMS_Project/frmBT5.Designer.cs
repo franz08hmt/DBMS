@@ -81,7 +81,7 @@
             this.grpIns.Size = new System.Drawing.Size(360, 110);
             this.grpIns.TabIndex = 1;
             this.grpIns.TabStop = false;
-            this.grpIns.Text = "tg_insMuon — AFTER INSERT (them phieu muon)";
+            this.grpIns.Text = "Them phieu muon moi (AFTER INSERT)";
             // 
             // lblInsISBN
             // 
@@ -169,7 +169,7 @@
             this.grpDel.Size = new System.Drawing.Size(360, 110);
             this.grpDel.TabIndex = 2;
             this.grpDel.TabStop = false;
-            this.grpDel.Text = "tg_delMuon — AFTER DELETE (xoa phieu muon / tra sach)";
+            this.grpDel.Text = "Xoa phieu muon / Tra sach";
             // 
             // lblDelISBN
             // 
@@ -257,7 +257,7 @@
             this.grpUpd.Size = new System.Drawing.Size(360, 110);
             this.grpUpd.TabIndex = 3;
             this.grpUpd.TabStop = false;
-            this.grpUpd.Text = "tg_updCuonSach — AFTER UPDATE (cap nhat tinh trang)";
+            this.grpUpd.Text = "Cap nhat tinh trang cuon sach";
             // 
             // lblUpdISBN
             // 
@@ -347,7 +347,7 @@
             this.grpThongBao.Size = new System.Drawing.Size(360, 110);
             this.grpThongBao.TabIndex = 4;
             this.grpThongBao.TabStop = false;
-            this.grpThongBao.Text = "tg_InfThongBao — AFTER INSERT/UPDATE (thong bao tuasach)";
+            this.grpThongBao.Text = "Thong bao khi them/sua tua sach";
             // 
             // lblTBMa
             // 
