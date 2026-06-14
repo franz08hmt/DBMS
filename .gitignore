@@ -1,0 +1,10 @@
+# Visual Studio 
+.vs/ 
+*.user 
+*.suo 
+bin/ 
+obj/ 
+ 
+# Windows 
+Thumbs.db 
+Desktop.ini 
